@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1589423327 source:c:\users\ranag\desktop\level two\career path\c how to program\games\snakeoop\main.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	"OPP.h"
+	"OPP.cpp"
+	"snakeMovementClass.h"
+	"snakeMovementClass.cpp"
+
+1589424851 c:\users\ranag\desktop\level two\career path\c how to program\games\snakeoop\opp.h
+	<iostream>
+	<ctime>
+	<string>
+
+1589424244 c:\users\ranag\desktop\level two\career path\c how to program\games\snakeoop\opp.cpp
+	"OPP.h"
+	<ctime>
+
+1589427197 c:\users\ranag\desktop\level two\career path\c how to program\games\snakeoop\snakemovementclass.h
+	<iostream>
+	<ctime>
+	<string>
+	"OPP.h"
+
+1589427169 c:\users\ranag\desktop\level two\career path\c how to program\games\snakeoop\snakemovementclass.cpp
+	"snakeMovementClass.h"
+	<conio.h>
+	<windows.h>
+
